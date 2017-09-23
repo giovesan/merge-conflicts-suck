@@ -1,1 +1,1 @@
-var = 500
+Diomerda
